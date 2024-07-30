@@ -1,0 +1,50 @@
+This data is of AdventureWorks Company, providing insights into the company's performance across various metrics.
+
+#### Slide 1: Executive Summary
+The Executive Summary dashboard provides a high-level overview of the company’s financial performance and key metrics. 
+
+- Revenue: The total revenue generated is $24.9M, indicating a robust sales performance.
+- Orders: There have been 25K orders processed, demonstrating a high volume of transactions.
+- Profit: The profit stands at $10.5M, highlighting the financial success and profitability.
+- Return Rate: The return rate is 2.2%, suggesting customer satisfaction and product quality.
+
+Additionally, the dashboard includes:
+- Weekly Revenue: A line graph displaying weekly revenue trends from January 2020 to January 2022, helping to identify seasonal patterns and revenue fluctuations.
+- Monthly Revenue: 
+  - Current month revenue: $1.83M
+  - Previous month revenue: $1.77M (an increase of 3.31%), indicating positive growth.
+- Monthly Orders vs Target, Monthly Revenue vs Target, Monthly Profit vs Target: These metrics compare actual figures against targets, highlighting areas of success and those needing improvement.
+
+#### Slide 2: Geographic Sales Map
+The Geographic Sales Map dashboard visualizes sales distribution across different regions.
+
+- Regions Covered: United States, Australia, Canada, United Kingdom, France, and Germany.
+- Sales Distribution: The map provides insights into regional sales performance, helping to identify key markets and potential areas for expansion. Each region's sales figures can be 
+  analyzed to understand market penetration and regional customer preferences.
+
+This dashboard is important for understanding where the company's products are most popular and where marketing efforts may need to be increased.
+
+#### Slide 3: Product Details
+The Product Details dashboard offers an in-depth look at individual product performance.
+
+- Orders by Category Name: Displays the number of orders across categories like Accessories (17K orders), Bikes (13.9K orders), and Clothing (7K orders), providing insights into which product categories are most popular.
+- Product-wise Performance:
+  - Lists specific products (e.g., Women's Mountain Shorts in various sizes, Water Bottle - 30 oz, Touring-3000 Yellow) along with their order numbers, revenue generated, and return percentages.
+  - Highlights top-performing products in terms of orders and revenue, as well as products with the highest return rates.
+  - Most Returned Product Types: Tires and Tubes, indicating potential issues with these products.
+  - Most Ordered and Most Returned Product Types: Shorts, suggesting high customer demand but also a notable return rate, which might need further investigation.
+
+This dashboard helps in understanding product popularity, performance issues, and inventory management.
+
+#### Slide 4: Customer Details
+The Customer Details dashboard provides a comprehensive analysis of the customer base.
+
+- Unique Customers: There are 17.4K unique customers, with an average revenue per customer being $1,431.
+- Weekly Customers: Trend of weekly customer count over time, indicating customer acquisition and retention patterns.
+- Orders by Income Level and Occupation:
+  - Income Level: Breakdown of orders by customers' income levels (Low: 11.6K orders, High: 10.3K orders, Average: 2.8K orders).
+  - Occupation: Distribution of orders by customers' occupation (Professional: 7.9K orders, Skilled Manual: 6K orders, Management: 4.4K orders), providing insights into customer demographics.
+- Top 100 Customers:
+  - Detailed information on top 100 customers by total orders and revenue, highlighting key customers like Mr. Maurice Shan, who is the top customer by revenue ($12.4K).
+  - This helps in identifying high-value customers and understanding their purchasing behavior.
+
